@@ -26,9 +26,9 @@ This project demonstrates how to build modular applications using the **Database
    git clone https://github.com/YourOrgName/FinancialApp.git
    cd FinancialApp
 
-   Why This Is Better
-Streamlined Focus: Focuses only on connecting the LLM, database, and agents.
-Modularity: Each component (database, agent, LLM) is independent and replaceable.
-Scalability: Can easily switch to cloud services (e.g., AWS DynamoDB, RDS) or local alternatives.
-Efficiency: Avoids unnecessary complexity, letting you focus on building functionality.
+## Why This Is Better
+1. **Streamlined Focus**: Focuses only on connecting the LLM, database, and agents.
+2. **Modularity**: Each component (database, agent, LLM) is independent and replaceable.
+3. **Scalability**: Can easily switch to cloud services (e.g., AWS DynamoDB, RDS) or local alternatives.
+4. **Efficiency**: Avoids unnecessary complexity, letting you focus on building functionality.
 
