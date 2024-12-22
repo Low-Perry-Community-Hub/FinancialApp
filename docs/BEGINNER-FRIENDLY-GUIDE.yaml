@@ -1,0 +1,40 @@
+
+---
+
+### **3. Beginner-Friendly Guide**
+Here’s a guide for complete beginners, focusing on clarity and encouragement.
+
+#### **`docs/beginner_guide.md`**
+```markdown
+# Beginner's Guide to FinancialApp
+
+Welcome! This guide will help you understand how to work on FinancialApp, even if you're new to coding.
+
+## What Is FinancialApp?
+This app:
+1. Fetches data about stocks and cryptocurrency.
+2. Analyzes data with AI (LLM).
+3. Answers your questions in simple language.
+
+---
+
+## Steps to Start
+
+### 1. Set Up Your Computer
+1. Install **Python**:
+   - Download it from [python.org](https://www.python.org/).
+
+2. Install **Git**:
+   - Follow instructions here: [git-scm.com](https://git-scm.com/).
+
+3. Open a terminal (Command Prompt or Terminal).
+
+---
+
+### 2. Download the Project
+1. Go to the GitHub repository: [FinancialApp](https://github.com/Low-Perry-Community-Hub/FinancialApp).
+2. Click **"Fork"** (top-right button).
+3. Clone your forked version:
+   ```bash
+   git clone https://github.com/Low-Perry-Community-Hub/FinancialApp.git
+   cd FinancialApp
